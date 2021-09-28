@@ -28,3 +28,34 @@ C:\Users\Razj\source\repos\OrderItem\OrderItem\obj\Debug\net5.0\ref\OrderItem.dl
 C:\Users\Razj\source\repos\OrderItem\OrderItem\obj\Debug\net5.0\OrderItem.pdb
 C:\Users\Razj\source\repos\OrderItem\OrderItem\obj\Debug\net5.0\OrderItem.genruntimeconfig.cache
 C:\Users\Razj\source\repos\OrderItem\OrderItem\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\bin\Debug\net5.0\appsettings.Development.json
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\bin\Debug\net5.0\appsettings.json
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\bin\Debug\net5.0\OrderItem.exe
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\bin\Debug\net5.0\OrderDeployment.yaml
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\bin\Debug\net5.0\OrderItem.deps.json
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\bin\Debug\net5.0\OrderItem.runtimeconfig.json
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\bin\Debug\net5.0\OrderItem.runtimeconfig.dev.json
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\bin\Debug\net5.0\OrderItem.dll
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\bin\Debug\net5.0\ref\OrderItem.dll
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\bin\Debug\net5.0\OrderItem.pdb
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\obj\Debug\net5.0\OrderItem.csproj.AssemblyReference.cache
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\obj\Debug\net5.0\OrderItem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\obj\Debug\net5.0\OrderItem.AssemblyInfoInputs.cache
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\obj\Debug\net5.0\OrderItem.AssemblyInfo.cs
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\obj\Debug\net5.0\OrderItem.csproj.CoreCompileInputs.cache
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\obj\Debug\net5.0\OrderItem.MvcApplicationPartsAssemblyInfo.cs
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\obj\Debug\net5.0\OrderItem.MvcApplicationPartsAssemblyInfo.cache
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\obj\Debug\net5.0\staticwebassets\OrderItem.StaticWebAssets.Manifest.cache
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\obj\Debug\net5.0\staticwebassets\OrderItem.StaticWebAssets.xml
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\obj\Debug\net5.0\scopedcss\bundle\OrderItem.styles.css
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\obj\Debug\net5.0\OrderItem.RazorTargetAssemblyInfo.cache
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\obj\Debug\net5.0\OrderItem.csproj.CopyComplete
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\obj\Debug\net5.0\OrderItem.dll
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\obj\Debug\net5.0\ref\OrderItem.dll
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\obj\Debug\net5.0\OrderItem.pdb
+D:\Stage3\Jatin-935298-CloudConcepts\Practice Check\OrderItem\OrderItem\obj\Debug\net5.0\OrderItem.genruntimeconfig.cache

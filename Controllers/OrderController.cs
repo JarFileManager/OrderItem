@@ -23,7 +23,7 @@ namespace OrderItem.Controllers
             HttpClient client = new HttpClient();
             client.BaseAddress = new Uri("http://20.84.12.180");
             string site = $"/api/MenuItem/{menuItemId}";
-           
+
             HttpResponseMessage response = client.GetAsync(site).Result;
 
             if (response.StatusCode == HttpStatusCode.OK)
@@ -32,20 +32,21 @@ namespace OrderItem.Controllers
                 MenuItem menu = JsonConvert.DeserializeObject<MenuItem>(jsonString);
 
                 Cart cart = new Cart
-                {
-                    Id = 1,
-                    UserId = userId,
-                    MenuItemId = menuItemId,
-                    MenuItemName = menu.Name
-                };
+            {
+                Id = 1,
+                UserId = userId,
+                MenuItemId = menuItemId,
+                MenuItemName = menu.Name
+                //MenuItemName = "Phone"
+            };
             return Ok(cart);
-            }
+        }
             else
             {
                 return BadRequest(response.Content.ToString());
-            }
-                
-        }
+    }
+
+}
 
         
     }
