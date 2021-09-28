@@ -21,7 +21,7 @@ namespace OrderItem.Controllers
         public IActionResult SetCart([FromRoute] int menuItemId, int userId)
         {
             HttpClient client = new HttpClient();
-            client.BaseAddress = new Uri("http://20.84.20.154");
+            client.BaseAddress = new Uri("http://20.84.12.180");
             string site = $"/api/MenuItem/{menuItemId}";
            
             HttpResponseMessage response = client.GetAsync(site).Result;
