@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: orderitem
-        image: myazurecontainerregistrycr.azurecr.io/orderitemimage:latest
+        image: practicecheckcontainer.azurecr.io/orderitemimage:latest
         ports:
         - containerPort: 80
       imagePullSecrets:

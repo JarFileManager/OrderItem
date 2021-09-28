@@ -317,19 +317,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Razj\\.nuget\\packages\\": {}
+    "C:\\Users\\Dell\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Razj\\source\\repos\\OrderItem\\OrderItem\\OrderItem.csproj",
+      "projectUniqueName": "D:\\Stage3\\Jatin-935298-CloudConcepts\\Practice Check\\OrderItem\\OrderItem\\OrderItem.csproj",
       "projectName": "OrderItem",
-      "projectPath": "C:\\Users\\Razj\\source\\repos\\OrderItem\\OrderItem\\OrderItem.csproj",
-      "packagesPath": "C:\\Users\\Razj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Razj\\source\\repos\\OrderItem\\OrderItem\\obj\\",
+      "projectPath": "D:\\Stage3\\Jatin-935298-CloudConcepts\\Practice Check\\OrderItem\\OrderItem\\OrderItem.csproj",
+      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "outputPath": "D:\\Stage3\\Jatin-935298-CloudConcepts\\Practice Check\\OrderItem\\OrderItem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Razj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -386,7 +386,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -8,7 +8,6 @@ using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace OrderItem.Controllers
 {
@@ -17,7 +16,7 @@ namespace OrderItem.Controllers
     public class OrderController : ControllerBase
     {   
 
-        // POST api/<OrderController>
+        
         [HttpPost("{menuItemId}/{userId}")]
         public IActionResult SetCart([FromRoute] int menuItemId, int userId)
         {
