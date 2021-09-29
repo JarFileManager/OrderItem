@@ -17,7 +17,7 @@ namespace OrderItem.Controllers
     {   
 
         
-        [HttpPost("{menuItemId}/{userId}")]
+        [HttpGet("{menuItemId}/{userId}")]
         public IActionResult SetCart([FromRoute] int menuItemId, int userId)
         {
             HttpClient client = new HttpClient();
